@@ -1,10 +1,12 @@
-# ⚡ Connexion581 V4.0.0
+![GitHub all releases](https://img.shields.io/github/downloads/Shape581/Fuel581/total)
 
-Connexion581 envoie un message lors d'une connexion d'un joueur avec quelques information sur lui.
+# ⚡ Fuel581 V1.0.0
+
+Fuel581 Est un plugin qui permet le changement du prix de l'essence entre 1 et 3.
 
 # 🔧 Fonctionnalité
 
-- Envoie de message lors d'une connexion d'un joueur 
+- Change le prix de l'essence entre 1 et 3 toutes les heures
 
 # 🔌  Installation
 
@@ -15,7 +17,7 @@ Connexion581 envoie un message lors d'une connexion d'un joueur avec quelques in
 
 # 🧩  Téléchargement
 
-*[Connexion581](https://github.com/Shape581/Connexion581)*
+*[Fuel581](https://github.com/Shape581/Fuel581/releases/tag/V1.0.0)*
 
 # 📗  Dépendance
 
