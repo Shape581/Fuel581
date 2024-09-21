@@ -1,27 +1,23 @@
 ![GitHub all releases](https://img.shields.io/github/downloads/Shape581/Fuel581/total)
 
-# ⚡ Fuel581 V1.0.0
+# ⚡ Fuel581V1.0.0
 
-Fuel581 Est un plugin qui permet le changement du prix de l'essence entre 1 et 3.
+Plugin Nova-Life permettant de changer toute les heures le prix de l'essence entre un prix minimum et maximum
 
 # 🔧 Fonctionnalité
 
-- Change le prix de l'essence entre 1 et 3 toutes les heures
+Configurable vie un config.json entrer le prix maximal et minimum et le plugin va pouvoir générer un chiffre aléatoire a virgule a deux chiffre exemple 1.74€. Envoie également un message dans le chat lors du changement du prix d'essence avec le prix (visible seulement par les admin).
 
 # 🔌  Installation
 
-- 1 Télécharger le fichier Connexion.dll
+- 1 Télécharger le fichier Fuel581 .dll
 - 2 Télécharger les dépendance
 - 3 Mettez les fichiers dans le dossier plugin de vôtre serveur
 - 4 Utiliser le plugin
 
-# 🧩  Téléchargement
-
-*[Fuel581](https://github.com/Shape581/Fuel581/releases/tag/V1.0.0)*
-
 # 📗  Dépendance
 
-*[ModKit & AAMenu](https://github.com/Aarnow/NovaLife_ModKit-Releases/releases/latest)*
+*[ModKit & AAMenu](https://github.com/Aarnow/NovaLife_ModKit-Releases/releases/tag/v1.0.0)*
 
 # 📮  Contact
 
