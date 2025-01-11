@@ -17,8 +17,8 @@
 - *Le Plugin possède un Webhook pour que je puisse savoir qui utilise le Plugin.*
 - Permet de changer changer le prix de l'essence entre un minimum et un maxium tout les deux configurable.
 - Vous pouvez également configurer l'interval du temps de changement.
-- Vous pouvez faire /fuel pour accéder au Menu du Plugin
-
+- Vous pouvez faire /fuel pour accéder au Menu du Plugin, vous pourez y modifier la configuration
+  
 ### :link:・Téléchargement
 
 - Télécharger le fichier ***Fuel581***
