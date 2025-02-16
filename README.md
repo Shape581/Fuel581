@@ -1,6 +1,6 @@
 ![GitHub all releases](https://img.shields.io/github/downloads/Shape581/Fuel581/total)
 
-# :package:・Fuel581 V1.0.0
+# :package:・Fuel581
 
 ### :mag:・Information
 
