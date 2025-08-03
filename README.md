@@ -14,10 +14,9 @@
 
 ### :toolbox:・Fonctionnalité
 
-- *Le Plugin possède un Webhook pour que je puisse savoir qui utilise le Plugin.*
 - Permet de changer changer le prix de l'essence entre un minimum et un maxium tout les deux configurable.
 - Vous pouvez également configurer l'interval du temps de changement.
-- Vous pouvez faire /fuel pour accéder au Menu du Plugin, vous pourez y modifier la configuration
+- Possède une commande "/randomfuelprice" pour régeneré le prix de l'essence
   
 ### :link:・Téléchargement
 
@@ -33,5 +32,3 @@
 ### :speech_balloon:・Contact
 
 - *Vous pouvez me contacter en MP si besoin.*
-
-![Fuel581](https://github.com/user-attachments/assets/59a5fd2b-6efc-480a-a48a-0237899c2539)
